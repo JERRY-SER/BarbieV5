@@ -23,7 +23,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 *Bot setting video : https://youtu.be/_D4ZYuUSXjs*
 *Githublink (Setup)  :    https://github.com/ameer-kallumthodi/pikachu*
 *Audio commads :   https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
-*Sticker commads : https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
+*Sticker commads : https://github.com/JERRY-SER/BarbieV5/tree/master/uploads*
 `}) 
 
 }));
